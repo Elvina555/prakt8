@@ -6,30 +6,22 @@
       xmlns:local="clr-namespace:prakt8.Pages"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="LoginPage">
-    <Grid Background="White">
-        <StackPanel Margin="50" VerticalAlignment="Center">
+     Title="LoginPage" Background="{DynamicResource WindowBackground}">
 
-            <TextBlock Text="Вход в систему" 
-                   FontSize="20" 
-                   HorizontalAlignment="Center" 
-                   Margin="0,0,0,15"/>
+    <Grid Background="{DynamicResource WindowBackground}">
+        <StackPanel Style="{DynamicResource FormContainer}">
+            <TextBlock Text="Вход в систему" Style="{DynamicResource PageTitle}"/>
 
-            <TextBlock Text="ID врача:" Margin="0,5"/>
-            <TextBox x:Name="IdTextBox" Height="30" Margin="0,0,0,15"/>
+            <TextBlock Text="ID врача:" Style="{DynamicResource Label}"/>
+            <TextBox x:Name="IdTextBox" Style="{DynamicResource TextInput}"/>
 
-            <TextBlock Text="Пароль:" Margin="0,5"/>
-            <TextBox x:Name="PasswordBox" Height="30" Margin="0,0,0,30"/>
+            <TextBlock Text="Пароль:" Style="{DynamicResource Label}"/>
+            <TextBox x:Name="PasswordBox" Style="{DynamicResource TextInput}"/>
 
-            <Button Content="Войти" 
-                Click="LoginButton_Click" 
-                Height="35" 
-                Margin="0,0,0,10"/>
-
-            <Button Content="Регистрация" 
-                Click="RegisterButton_Click" 
-                Height="35"/>
-
+            <StackPanel Style="{DynamicResource ButtonPanel}">
+                <Button Content="Войти" Style="{DynamicResource PrimaryButton}" Click="LoginButton_Click"/>
+                <Button Content="Регистрация" Style="{DynamicResource PrimaryButton}" Click="RegisterButton_Click"/>
+            </StackPanel>
         </StackPanel>
     </Grid>
-</Page>
+    </Page>

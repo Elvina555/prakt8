@@ -1,0 +1,33 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="WindowBackground" Color="#1F2937"/>
+    <SolidColorBrush x:Key="TextForeground" Color="#F9FAFB"/>
+    <SolidColorBrush x:Key="CardBackground" Color="#374151"/>
+
+    <SolidColorBrush x:Key="MenuBackground" Color="#111827"/>
+    <SolidColorBrush x:Key="MenuForeground" Color="#F9FAFB"/>
+    <SolidColorBrush x:Key="MenuItemBackground" Color="#374151"/>
+
+    <SolidColorBrush x:Key="InputBackground" Color="#4B5563"/>
+    <SolidColorBrush x:Key="InputForeground" Color="#F9FAFB"/>
+    <SolidColorBrush x:Key="InputBorder" Color="#6B7280"/>
+
+    <SolidColorBrush x:Key="PrimaryButtonBackground" Color="#3B82F6"/>
+    <SolidColorBrush x:Key="PrimaryButtonForeground" Color="#FFFFFF"/>
+    <SolidColorBrush x:Key="PrimaryButtonBorder" Color="#2563EB"/>
+
+    <SolidColorBrush x:Key="SuccessButtonBackground" Color="#10B981"/>
+    <SolidColorBrush x:Key="SuccessButtonForeground" Color="#FFFFFF"/>
+    <SolidColorBrush x:Key="SuccessButtonBorder" Color="#059669"/>
+
+    <SolidColorBrush x:Key="DangerButtonBackground" Color="#EF4444"/>
+    <SolidColorBrush x:Key="DangerButtonForeground" Color="#FFFFFF"/>
+    <SolidColorBrush x:Key="DangerButtonBorder" Color="#DC2626"/>
+
+    <SolidColorBrush x:Key="PrimaryButtonHover" Color="#2563EB"/>
+    <SolidColorBrush x:Key="PrimaryButtonPressed" Color="#1D4ED8"/>
+    <SolidColorBrush x:Key="SuccessButtonHover" Color="#059669"/>
+    <SolidColorBrush x:Key="SuccessButtonPressed" Color="#047857"/>
+    <SolidColorBrush x:Key="DangerButtonHover" Color="#DC2626"/>
+    <SolidColorBrush x:Key="DangerButtonPressed" Color="#B91C1C"/>
+</ResourceDictionary>

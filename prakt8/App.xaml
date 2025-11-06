@@ -4,6 +4,19 @@
              xmlns:local="clr-namespace:prakt8"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+
+
+                <ResourceDictionary Source="/Styles/Theme/LightTheme.xaml"/>
+                <ResourceDictionary Source="/Styles/UI/bt.xaml"/>
+
+
+
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+
+
     </Application.Resources>
 </Application>

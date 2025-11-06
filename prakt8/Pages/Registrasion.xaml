@@ -6,32 +6,34 @@
       xmlns:local="clr-namespace:prakt8.Pages"
       mc:Ignorable="d" 
       d:DesignHeight="550" d:DesignWidth="800"
-      Title="Registrasion">
+      Title="Registrasion" Background="{DynamicResource WindowBackground}">
 
-    <Grid Background="White">
-        <StackPanel Margin="30" >
-            <TextBlock Text="Регистрация врача" FontSize="20" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+    <Grid Background="{DynamicResource WindowBackground}">
+        <StackPanel Margin="30" VerticalAlignment="Center" HorizontalAlignment="Center" MaxWidth="500">
+            <TextBlock Text="Регистрация врача" Style="{StaticResource PageTitle}"/>
 
-            <TextBlock Text="Фамилия:"/>
-            <TextBox Text="{Binding LastName}" Height="25" Margin="0,5,0,10"/>
+            <TextBlock Text="Фамилия:" Style="{StaticResource Label}"/>
+            <TextBox Text="{Binding LastName}" Style="{StaticResource TextInput}"/>
 
-            <TextBlock Text="Имя:"/>
-            <TextBox Text="{Binding FirstName}" Height="25" Margin="0,5,0,10"/>
+            <TextBlock Text="Имя:" Style="{StaticResource Label}"/>
+            <TextBox Text="{Binding FirstName}" Style="{StaticResource TextInput}"/>
 
-            <TextBlock Text="Отчество:"/>
-            <TextBox Text="{Binding MiddleName}" Height="25" Margin="0,5,0,10"/>
+            <TextBlock Text="Отчество:" Style="{StaticResource Label}"/>
+            <TextBox Text="{Binding MiddleName}" Style="{StaticResource TextInput}"/>
 
-            <TextBlock Text="Специальность:"/>
-            <TextBox Text="{Binding Specialty}" Height="25" Margin="0,5,0,10"/>
+            <TextBlock Text="Специальность:" Style="{StaticResource Label}"/>
+            <TextBox Text="{Binding Specialty}" Style="{StaticResource TextInput}"/>
 
-            <TextBlock Text="Пароль:"/>
-            <TextBox x:Name="PasswordTextBox" Height="25" Margin="0,5,0,10"/>
+            <TextBlock Text="Пароль:" Style="{StaticResource Label}"/>
+            <TextBox x:Name="PasswordTextBox" Style="{StaticResource TextInput}"/>
 
-            <TextBlock Text="Подтверждение пароля:"/>
-            <TextBox x:Name="ConfirmPasswordTextBox" Height="25" Margin="0,5,0,20"/>
+            <TextBlock Text="Подтверждение пароля:" Style="{StaticResource Label}"/>
+            <TextBox x:Name="ConfirmPasswordTextBox" Style="{StaticResource TextInput}" Margin="0,0,0,20"/>
 
-            <Button Content="Зарегистрироваться" Click="RegisterButton_Click" Height="30" Margin="0,0,0,10"/>
-            <Button Content="Назад" Click="BackButton_Click" Height="30"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Зарегистрироваться" Style="{StaticResource SuccessButton}" Click="RegisterButton_Click" Margin="0,0,10,0"/>
+                <Button Content="Назад" Style="{StaticResource PrimaryButton}" Click="BackButton_Click"/>
+            </StackPanel>
         </StackPanel>
     </Grid>
 </Page>

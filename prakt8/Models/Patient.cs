@@ -9,10 +9,11 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.IO;
 
-namespace prakt8
+namespace prakt8.Models
 {
     public class Patient : INotifyPropertyChanged
     {
+        public List<Priem> AppointmentStories { get; set; } = new List<Priem>();
         private string _lastName = "";
         public string LastName
         {
@@ -145,7 +146,7 @@ namespace prakt8
             int id;
             do
             {
-                id = rnd.Next(1000, 9999);
+                id = rnd.Next(1000000, 9999999);
             } while (File.Exists($"P_{id}.json"));
 
             return id;

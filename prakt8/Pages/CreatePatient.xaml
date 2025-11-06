@@ -6,26 +6,28 @@
       xmlns:local="clr-namespace:prakt8.Pages"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="CreatePatient">
+      Title="CreatePatient" Background="{DynamicResource WindowBackground}">
 
-    <Grid Background="White">
-        <StackPanel Margin="30" VerticalAlignment="Center">
-            <TextBlock Text="Создание пациента" FontSize="20" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+    <Grid Background="{DynamicResource WindowBackground}">
+        <StackPanel Style="{DynamicResource FormContainer}">
+            <TextBlock Text="Создание пациента" Style="{DynamicResource PageTitle}"/>
 
-            <TextBlock Text="Фамилия:"/>
-            <TextBox Text="{Binding LastName}" Height="25" Margin="0,5,0,10"/>
+            <TextBlock Text="Фамилия:" Style="{DynamicResource Label}"/>
+            <TextBox x:Name="LastNameTextBox" Text="{Binding LastName}" Style="{DynamicResource TextInput}"/>
 
-            <TextBlock Text="Имя:"/>
-            <TextBox Text="{Binding FirstName}" Height="25" Margin="0,5,0,10"/>
+            <TextBlock Text="Имя:" Style="{DynamicResource Label}"/>
+            <TextBox x:Name="FirstNameTextBox" Text="{Binding FirstName}" Style="{DynamicResource TextInput}"/>
 
-            <TextBlock Text="Отчество:"/>
-            <TextBox Text="{Binding MiddleName}" Height="25" Margin="0,5,0,10"/>
+            <TextBlock Text="Отчество:" Style="{DynamicResource Label}"/>
+            <TextBox x:Name="MiddleNameTextBox" Text="{Binding MiddleName}" Style="{DynamicResource TextInput}"/>
 
-            <TextBlock Text="Дата рождения:"/>
-            <DatePicker SelectedDate="{Binding BirthDate}" Height="25" Margin="0,5,0,20"/>
+            <TextBlock Text="Дата рождения:" Style="{DynamicResource Label}"/>
+            <DatePicker x:Name="BirthDatePicker" SelectedDate="{Binding BirthDate}" Style="{DynamicResource DatePickerStyle}"/>
 
-            <Button Content="Сохранить" Click="SaveButton_Click" Height="30" Margin="0,0,0,10"/>
-            <Button Content="Отмена" Click="CancelButton_Click" Height="30"/>
+            <StackPanel Style="{DynamicResource ButtonPanel}">
+                <Button Content="Сохранить" Style="{DynamicResource SuccessButton}" Click="SaveButton_Click"/>
+                <Button Content="Отмена" Style="{DynamicResource PrimaryButton}" Click="CancelButton_Click"/>
+            </StackPanel>
         </StackPanel>
     </Grid>
 </Page>

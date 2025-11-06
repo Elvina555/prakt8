@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace prakt8
+namespace prakt8.Models
 {
     public class Priem
     {

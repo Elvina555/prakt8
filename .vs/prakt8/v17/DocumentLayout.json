@@ -3,76 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\priem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\priem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\createpatient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\createpatient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\createpatient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\createpatient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\edit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\edit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\edit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\edit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\homepage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\homepage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\reception.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\reception.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\reception.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\reception.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\registrasion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\registrasion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\registrasion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\registrasion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\homepage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\homepage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\reception.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\reception.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\edit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\edit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\createpatient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\createpatient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\styles\\ui\\bt.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\styles\\ui\\bt.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\styles\\theme\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\styles\\theme\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\styles\\theme\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\styles\\theme\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\reception.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\reception.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\createpatient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\createpatient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\models\\priem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\models\\priem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\registrasion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\registrasion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|c:\\users\\eivin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\pages\\edit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7A16D7-53A5-4538-82F9-C0FE18AEFB3C}|prakt8\\prakt8.csproj|solutionrelative:prakt8\\pages\\edit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,37 +94,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "prakt8\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\AssemblyInfo.cs",
-              "RelativeToolTip": "prakt8\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T10:39:32.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Priem.cs",
-              "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Priem.cs",
-              "RelativeDocumentMoniker": "prakt8\\Priem.cs",
-              "ToolTip": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Priem.cs",
-              "RelativeToolTip": "prakt8\\Priem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T18:43:09.928Z",
+              "DocumentIndex": 10,
+              "Title": "LightTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Styles\\Theme\\LightTheme.xaml",
+              "RelativeDocumentMoniker": "prakt8\\Styles\\Theme\\LightTheme.xaml",
+              "ToolTip": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Styles\\Theme\\LightTheme.xaml",
+              "RelativeToolTip": "prakt8\\Styles\\Theme\\LightTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-03T14:35:09.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "DarkTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Styles\\Theme\\DarkTheme.xaml",
+              "RelativeDocumentMoniker": "prakt8\\Styles\\Theme\\DarkTheme.xaml",
+              "ToolTip": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Styles\\Theme\\DarkTheme.xaml",
+              "RelativeToolTip": "prakt8\\Styles\\Theme\\DarkTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-03T14:35:02.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bt.xaml",
+              "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Styles\\UI\\bt.xaml",
+              "RelativeDocumentMoniker": "prakt8\\Styles\\UI\\bt.xaml",
+              "ToolTip": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Styles\\UI\\bt.xaml",
+              "RelativeToolTip": "prakt8\\Styles\\UI\\bt.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-03T14:34:23.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\App.xaml",
+              "RelativeDocumentMoniker": "prakt8\\App.xaml",
+              "ToolTip": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\App.xaml",
+              "RelativeToolTip": "prakt8\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-03T14:29:08.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Priem.cs",
+              "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Models\\Priem.cs",
+              "RelativeDocumentMoniker": "prakt8\\Models\\Priem.cs",
+              "ToolTip": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Models\\Priem.cs",
+              "RelativeToolTip": "prakt8\\Models\\Priem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T18:43:09.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "LoginPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Pages\\LoginPage.xaml.cs",
               "RelativeDocumentMoniker": "prakt8\\Pages\\LoginPage.xaml.cs",
@@ -120,12 +165,11 @@
               "RelativeToolTip": "prakt8\\Pages\\LoginPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T18:42:10.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T18:42:10.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "Edit.xaml.cs",
               "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Pages\\Edit.xaml.cs",
               "RelativeDocumentMoniker": "prakt8\\Pages\\Edit.xaml.cs",
@@ -133,99 +177,91 @@
               "RelativeToolTip": "prakt8\\Pages\\Edit.xaml.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T18:34:53.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T18:34:53.294Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Reception.xaml.cs",
               "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Pages\\Reception.xaml.cs",
               "RelativeDocumentMoniker": "prakt8\\Pages\\Reception.xaml.cs",
               "ToolTip": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Pages\\Reception.xaml.cs",
               "RelativeToolTip": "prakt8\\Pages\\Reception.xaml.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwEMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T18:14:41.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T18:14:41.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Edit.xaml",
               "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Pages\\Edit.xaml",
               "RelativeDocumentMoniker": "prakt8\\Pages\\Edit.xaml",
               "ToolTip": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Pages\\Edit.xaml",
               "RelativeToolTip": "prakt8\\Pages\\Edit.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-22T18:08:00.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T18:08:00.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "Reception.xaml",
               "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Pages\\Reception.xaml",
               "RelativeDocumentMoniker": "prakt8\\Pages\\Reception.xaml",
               "ToolTip": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Pages\\Reception.xaml",
               "RelativeToolTip": "prakt8\\Pages\\Reception.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-22T18:07:30.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T18:07:30.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "CreatePatient.xaml.cs",
               "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Pages\\CreatePatient.xaml.cs",
               "RelativeDocumentMoniker": "prakt8\\Pages\\CreatePatient.xaml.cs",
               "ToolTip": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Pages\\CreatePatient.xaml.cs",
               "RelativeToolTip": "prakt8\\Pages\\CreatePatient.xaml.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwCkAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T18:10:48.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T18:10:48.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CreatePatient.xaml",
               "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Pages\\CreatePatient.xaml",
               "RelativeDocumentMoniker": "prakt8\\Pages\\CreatePatient.xaml",
               "ToolTip": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Pages\\CreatePatient.xaml",
               "RelativeToolTip": "prakt8\\Pages\\CreatePatient.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-22T18:07:07.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T18:07:07.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "HomePage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Pages\\HomePage.xaml.cs",
               "RelativeDocumentMoniker": "prakt8\\Pages\\HomePage.xaml.cs",
               "ToolTip": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Pages\\HomePage.xaml.cs",
               "RelativeToolTip": "prakt8\\Pages\\HomePage.xaml.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAwwCoAAACaAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwGgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T17:54:16.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T17:54:16.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "HomePage.xaml",
               "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Pages\\HomePage.xaml",
               "RelativeDocumentMoniker": "prakt8\\Pages\\HomePage.xaml",
               "ToolTip": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Pages\\HomePage.xaml",
               "RelativeToolTip": "prakt8\\Pages\\HomePage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-22T17:45:33.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T17:45:33.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Registrasion.xaml.cs",
               "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Pages\\Registrasion.xaml.cs",
               "RelativeDocumentMoniker": "prakt8\\Pages\\Registrasion.xaml.cs",
@@ -233,12 +269,11 @@
               "RelativeToolTip": "prakt8\\Pages\\Registrasion.xaml.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAlwB8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T17:41:40.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T17:41:40.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
               "Title": "Registrasion.xaml",
               "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Pages\\Registrasion.xaml",
               "RelativeDocumentMoniker": "prakt8\\Pages\\Registrasion.xaml",
@@ -250,65 +285,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "LoginPage.xaml",
               "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Pages\\LoginPage.xaml",
               "RelativeDocumentMoniker": "prakt8\\Pages\\LoginPage.xaml",
               "ToolTip": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Pages\\LoginPage.xaml",
               "RelativeToolTip": "prakt8\\Pages\\LoginPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-22T17:10:02.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T17:10:02.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Patient.cs",
-              "RelativeDocumentMoniker": "prakt8\\Patient.cs",
-              "ToolTip": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Patient.cs",
-              "RelativeToolTip": "prakt8\\Patient.cs",
-              "ViewState": "AgIAALQAAAAAAAAAAAAiwJMAAAAqAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "prakt8\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Models\\Patient.cs",
+              "RelativeToolTip": "prakt8\\Models\\Patient.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAA4wLsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T17:03:15.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Doctor.cs",
-              "RelativeDocumentMoniker": "prakt8\\Doctor.cs",
-              "ToolTip": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Doctor.cs",
-              "RelativeToolTip": "prakt8\\Doctor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAoAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "prakt8\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\Models\\Doctor.cs",
+              "RelativeToolTip": "prakt8\\Models\\Doctor.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwG4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T17:01:11.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T17:01:11.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\MainWindow.xaml",
               "RelativeDocumentMoniker": "prakt8\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\MainWindow.xaml",
               "RelativeToolTip": "prakt8\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-22T17:00:27.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T17:00:27.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "prakt8\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\eivin\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\prakt8\\prakt8\\MainWindow.xaml.cs",
               "RelativeToolTip": "prakt8\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T17:00:21.179Z"
+              "WhenOpened": "2025-10-22T17:00:21.179Z",
+              "EditorCaption": ""
             }
           ]
         }

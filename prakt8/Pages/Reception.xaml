@@ -6,24 +6,43 @@
       xmlns:local="clr-namespace:prakt8.Pages"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="Reception">
+      Title="Reception" Background="{DynamicResource WindowBackground}">
 
-    <Grid Background="White" >
-        <StackPanel Margin="30" VerticalAlignment="Center">
-            <TextBlock Text="Прием пациента" FontSize="20" HorizontalAlignment="Center" Margin="0,0,0,20"/>
-            <TextBlock x:Name="PatientInfoText" FontSize="16" />
+    <Grid Background="{DynamicResource WindowBackground}" Margin="30">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
 
-            <TextBlock Text="Диагноз:" />
-            <TextBox Text="{Binding Diagnosis}" Height="56" Width="746"/>
+        <TextBlock Text="Прием пациента" Style="{DynamicResource PageTitle}"/>
+        <TextBlock x:Name="PatientInfoText" Style="{DynamicResource SectionTitle}" Grid.Row="0" Margin="0,0,0,10"/>
 
-            <TextBlock Text="Рекомендации:"/>
-            <TextBox Text="{Binding Recommendations}" Width="743" Height="148"/>
+        <StackPanel Grid.Row="1">
+            <TextBlock Text="Диагноз:" Style="{DynamicResource Label}"/>
+            <TextBox x:Name="DiagnosisTextBox" Text="{Binding Diagnosis}" Style="{DynamicResource LargeTextInput}"/>
 
-            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
-                <Button Content="Сохранить прием" Click="SaveAppointmentButton_Click" Margin="5" Padding="10,5"/>
-                <Button Content="Изменить информацию" Click="EditPatientButton_Click" Margin="5" Padding="10,5"/>
-                <Button Content="Назад" Click="BackButton_Click" Margin="5" Padding="10,5"/>
-            </StackPanel>
+            <TextBlock Text="Рекомендации:" Style="{DynamicResource Label}"/>
+            <TextBox x:Name="RecommendationsTextBox" Text="{Binding Recommendations}" Style="{DynamicResource LargeTextInput}"/>
+
+            <TextBlock Text="История приемов:" Style="{DynamicResource SectionTitle}" Margin="0,20,0,10"/>
+            <ListView x:Name="AppointmentHistoryListView" Style="{DynamicResource DataGrid}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Margin="8">
+                            <TextBlock Text="{Binding Date, StringFormat='Дата: {0:dd.MM.yyyy}'}" FontWeight="SemiBold"/>
+                            <TextBlock Text="{Binding Diagnosis, StringFormat='Диагноз: {0}'}" TextWrapping="Wrap"/>
+                            <TextBlock Text="{Binding Recommendations, StringFormat='Рекомендации: {0}'}" TextWrapping="Wrap"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Style="{DynamicResource ButtonPanel}">
+            <Button Content="Сохранить прием" Style="{DynamicResource SuccessButton}" Click="SaveAppointmentButton_Click"/>
+            <Button Content="Изменить информацию" Style="{DynamicResource PrimaryButton}" Click="EditPatientButton_Click"/>
+            <Button Content="Назад" Style="{DynamicResource PrimaryButton}" Click="BackButton_Click"/>
         </StackPanel>
     </Grid>
 </Page>

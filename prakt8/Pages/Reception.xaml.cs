@@ -1,4 +1,5 @@
-﻿using System;
+﻿using prakt8.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,39 +21,63 @@ namespace prakt8.Pages
     /// </summary>
     public partial class Reception : Page
     {
-        private Patient newPatient = new Patient();
+        public Patient currentPatient = new Patient();
         public Reception(Patient selectedPatient)
         {
             InitializeComponent();
-            newPatient = selectedPatient;
-            DataContext = newPatient;
+            currentPatient = selectedPatient;
+            DataContext = currentPatient;
             LoadPatientInfo();
+            Loaded += Reception_Loaded;
+        }
+
+       private void Reception_Loaded(object sender, RoutedEventArgs e)
+        {
+            LoadPatientInfo();
+            LoadAppointmentHistory();
         }
 
         private void LoadPatientInfo()
         {
-            PatientInfoText.Text = $"Пациент: {newPatient.LastName} {newPatient.FirstName} {newPatient.MiddleName}";
+            PatientInfoText.Text = $"{currentPatient.LastName} {currentPatient.FirstName} {currentPatient.MiddleName} (ID: {currentPatient.Id})";
+        }
+
+        private void LoadAppointmentHistory()
+        {
+            AppointmentHistoryListView.ItemsSource = currentPatient.AppointmentStories
+                .OrderByDescending(a => a.Date)
+                .ToList();
         }
 
         private void SaveAppointmentButton_Click(object sender, RoutedEventArgs e)
         {
-            if (string.IsNullOrEmpty(newPatient.Diagnosis))
+            if (string.IsNullOrEmpty(currentPatient.Diagnosis))
             {
                 MessageBox.Show("Введите диагноз");
                 return;
             }
 
-            newPatient.LastAppointment = DateTime.Now;
-            newPatient.DoctorId = MainWindow.CurrentDoctor.Id;
+            var newAppointment = new Priem
+            {
+                Date = DateTime.Now,
+                DoctorId = MainWindow.CurrentDoctor.Id,
+                Diagnos = currentPatient.Diagnosis,
+                Recommend = currentPatient.Recommendations
+            };
 
-            newPatient.SaveToFile();
+            currentPatient.AppointmentStories.Add(newAppointment);
+            currentPatient.SaveToFile();
 
             MessageBox.Show("Прием сохранен!");
+            LoadAppointmentHistory();
+
+            currentPatient.Diagnosis = "";
+            currentPatient.Recommendations = "";
         }
 
         private void EditPatientButton_Click(object sender, RoutedEventArgs e)
         {
-            NavigationService.Navigate(new Edit(newPatient));
+            NavigationService.Navigate(new Edit(currentPatient));
         }
 
         private void BackButton_Click(object sender, RoutedEventArgs e)

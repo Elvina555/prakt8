@@ -30,3 +30,8 @@ C:\Users\eivin\Desktop\Практические\prakt8\prakt8\obj\Debug\net8.0-w
 C:\Users\eivin\Desktop\Практические\prakt8\prakt8\obj\Debug\net8.0-windows\prakt8.pdb
 C:\Users\eivin\Desktop\Практические\prakt8\prakt8\obj\Debug\net8.0-windows\prakt8.genruntimeconfig.cache
 C:\Users\eivin\Desktop\Практические\prakt8\prakt8\obj\Debug\net8.0-windows\ref\prakt8.dll
+C:\Users\eivin\Desktop\Практические\prakt8\prakt8\obj\Debug\net8.0-windows\prakt8.sourcelink.json
+C:\Users\eivin\Desktop\Практические\prakt8\prakt8\obj\Debug\net8.0-windows\Styles\Theme\DarkTheme.baml
+C:\Users\eivin\Desktop\Практические\prakt8\prakt8\obj\Debug\net8.0-windows\Styles\Theme\LightTheme.baml
+C:\Users\eivin\Desktop\Практические\prakt8\prakt8\obj\Debug\net8.0-windows\Styles\UI\bt.baml
+C:\Users\eivin\Desktop\Практические\prakt8\prakt8\obj\Debug\net8.0-windows\App.baml

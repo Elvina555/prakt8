@@ -1,4 +1,5 @@
-﻿using System;
+﻿using prakt8.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -99,6 +100,11 @@ namespace prakt8.Pages
         private void PatientsListView_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             selectedPatient = PatientsListView.SelectedItem as Patient;
+        }
+
+        private void DeletePatientButton_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

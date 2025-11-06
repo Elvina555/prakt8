@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 C:\Users\eivin\Desktop\Практические\prakt8\prakt8\App.xaml
-7-1670346746
+10-739651201
 
-151379994511
+15-1504196396
 198-537775612
-MainWindow.xaml;Pages\CreatePatient.xaml;Pages\Edit.xaml;Pages\HomePage.xaml;Pages\LoginPage.xaml;Pages\Reception.xaml;Pages\Registrasion.xaml;
+MainWindow.xaml;Pages\CreatePatient.xaml;Pages\Edit.xaml;Pages\HomePage.xaml;Pages\LoginPage.xaml;Pages\Reception.xaml;Pages\Registrasion.xaml;Styles\Theme\DarkTheme.xaml;Styles\Theme\LightTheme.xaml;Styles\UI\bt.xaml;
 
 True
 
